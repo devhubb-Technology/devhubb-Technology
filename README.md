@@ -34,9 +34,9 @@ We're always working on something exciting! You’ll find projects and repositor
 
 Stay in the loop with our latest projects and insights.
 
-- **Website**: [devhubtech.com](http://devhubtech.com) (replace with the actual URL if available)
-- **LinkedIn**: [linkedin.com/company/devhub-technology](https://linkedin.com/company/devhub-technology) (replace with the actual URL if available)
-- **Twitter**: [@DevHubTech](https://twitter.com/DevHubTech) (replace with the actual URL if available)
+- **Website**: [devhubtech.com](https://devhubb.vercel.app)
+- **LinkedIn**: [linkedin.com/company/devhub-technology](https://www.linkedin.com/company/devhubb-technology)
+- **Instagram**: [@DevHubTech](https://www.instagram.com/devhu.bb) 
 
 ---
 
